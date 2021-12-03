@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @jayashankarc3301
-- 👀 I’m interested in Python and solidity
+- 👀 I’m interested in Python development
 - 🌱 I’m currently learning blockchain
 - 📫 How to reach me @kera_lite on telegram
